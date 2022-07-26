@@ -1,3 +1,7 @@
+#Entrega
+Matheus Ribeiro Silva nusp: 10723666
+Lucas tenorio nusp: 11221971
+
 # Galaxy Raiders
 
 Template for the project of the course [MAC0218 - Programming Techniques II][1]
